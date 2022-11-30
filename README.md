@@ -1,4 +1,4 @@
-### This repository contains code of the frontend UI part of ecommerce application which I am building using React and Strapi.
+### This repository contains code of the frontend UI part of ecommerce application which I am developing using React and Strapi.
 
 ````
 Magnifacio
