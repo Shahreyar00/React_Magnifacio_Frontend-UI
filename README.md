@@ -3,7 +3,7 @@
 ```
 Magnifacio
 ```
-### [Checkout the website](https://magnifacio.netlify.app) ###
+#### [Checkout the website](https://magnifacio.netlify.app) ####
 
 * You can click on cart button to check the look of cart component
 * You can open individual product page
